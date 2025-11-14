@@ -48,7 +48,6 @@ astgcn_v1/
 │   │
 │   └── processed/
 │       └── canonical.parquet
-└── astgcn_best.pth
 └── README.md
 ```
 
